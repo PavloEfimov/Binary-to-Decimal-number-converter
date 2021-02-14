@@ -1,0 +1,16 @@
+#inp{
+    background-color: rgb(20, 168, 236);
+    color: rgb(238, 9, 9);
+    font-size: 20px;
+    width: 392px;
+}
+button{
+    display: block;
+    width: 400px;
+}
+#output{
+    background-color: rgb(5, 92, 27);
+    color: bisque;
+    font-size: 20px;
+    width: 400px;
+}
